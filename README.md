@@ -1,4 +1,4 @@
-# 11 Expert Tips for a Leaner Flutter Workflow
+# Book Resources for "11 Expert Tips for a Leaner Flutter Workflow"
 ## Optimize Your Everyday Development Process and Code Smart, Not Hard!
 
 Supplementary Resources To Get You Started In Your Journey To Maximize Your Productivity
